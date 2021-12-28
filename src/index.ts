@@ -1255,9 +1255,9 @@ export class Zilswap {
       this.tokens['SWTH'] = 'zil1d6yfgycu9ythxy037hkt3phc3jf7h6rfzuft0s'
       this.tokens['XSGD'] = 'zil10a9z324aunx2qj64984vke93gjdnzlnl5exygv'
       this.tokens['ZLP'] = 'zil1du93l0dpn8wy40769raza23fjkvm868j9rjehn'
-      this.tokens['PORT'] = 'zil10v5nstu2ff9jsm7074wer6s6xtklh9xga7n8xc'
-      this.tokens['REDC'] = 'zil14jmjrkvfcz2uvj3y69kl6gas34ecuf2j5ggmye'
-      this.tokens['STREAM'] = 'zil10w9gdtaau3d5uzqescshuqn9fd23gpa82myjqc'
+      this.tokens['PELECAN'] = 'zil1n2r0jj4um7whnkj7u73ylq0l29ztghfn35auw4'
+      this.tokens['PLVRS'] = 'zil1y2nk036swurzqmzu9kvqqx6cweg2jnn7lqcxw5'
+      this.tokens['YOLO'] = 'zil18e5ghjzvm22rlzu6uf0dwne949jq4afdn6u3wh'
       this.tokens['zDAI'] = 'zil1nnga67uer2vk0harvu345vz7vl3v0pta6vr3sf'
       this.tokens['zETH'] = 'zil1j53x0y8myrcpy6u4n42qe0yuxn5t2ttedah8jp'
       return
