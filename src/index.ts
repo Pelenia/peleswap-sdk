@@ -1264,6 +1264,7 @@ export class Zilswap {
     } else if (this.network === Network.MainNet) {
       this.tokens['ZIL'] = 'zil1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq9yf6pz'
       this.tokens['wZIL'] = 'zil1gvr0jgwfsfmxsyx0xsnhtlte4gks6r3yk8x5fn'
+      this.tokens['PELE'] = 'zil12htx8pdfwk39e47fhd7t3vd3rftyxeuf9px354'
     }
 
     const res = await fetch('https://api.zilstream.com/tokens')
